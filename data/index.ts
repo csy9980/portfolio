@@ -6,9 +6,9 @@ export const gridItems = [
 
         React, Node.js 기반 프로젝트를 직접 설계·구현하고 기획과 개발을 연결하는 퍼블리셔로 성장하고 있습니다.`,
         className: "lg:col-span-3 md:col-span-6 md:row-span-4 lg:min-h-[60vh]",
-        imgClassName: "w-full h-full object-right",
+        imgClassName: "w-full h-full object-center hidden",
         titleClassName: "justify-end",
-        img: "/develop.svg",
+        img: "/me.svg",
         spareImg: "",
     },
     {
@@ -47,8 +47,8 @@ export const gridItems = [
       className: "lg:col-span-2 md:col-span-3 md:row-span-1",
       imgClassName: "",
       titleClassName: "justify-start",
-      img: "/grid.svg",
-      spareImg: "/work.svg",
+      img: "/team.svg",
+      spareImg: "",
     },
 
     {
@@ -64,7 +64,7 @@ export const gridItems = [
 
 `,
       className: "md:col-span-3 md:row-span-2",
-      imgClassName: "absolute right-0 bottom-0 md:w-96 w-60",
+      imgClassName: "absolute right-0 bottom-0",
       titleClassName: "justify-center md:justify-start lg:justify-center",
       img: "/edu.svg",
       spareImg: "/grid.svg",
