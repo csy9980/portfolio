@@ -97,7 +97,7 @@ export const projects = [
     des: "OPEN API를 활용하여 레시피를 검색하는 사이트로, REST API를 사용하여 유저들간의 소통을 위한 게시판도 적용했습니다.",
     img: "/recipe.png",
     iconLists: ["/react.svg", "/node.svg", "/express-w.svg", "/seq.svg"],
-    link: "https://github.com/csy9980/recipe-front",
+    link: "https://recipe-front-kappa.vercel.app/",
   },
   {
     id: 3,
